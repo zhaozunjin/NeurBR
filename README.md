@@ -1,1 +1,1 @@
-# RetinexDIP-3
+# Pytorch implementation of NeuralBR
