@@ -2,7 +2,8 @@
 
 [A non-regularization self-supervised Retinex approach to low-light image enhancement with parameterized illumination estimation](https://www.sciencedirect.com/science/article/pii/S0031320323007227)
 
-The `data` directory structure is arranged as :
+# Dataset
+The `data` [Google Drive](https://drive.google.com/drive/folders/1vqGM94WPBrDdC5krohCb_Y0zXxOXYKC6?usp=drive_link) directory structure is arranged as :
 ```
 data
   |-LIME
@@ -12,7 +13,10 @@ data
   |-Nasa
   |-VV
 ```
-
+# Inference
+```
+python main.py
+```
 ## Citation  
 
 ```
