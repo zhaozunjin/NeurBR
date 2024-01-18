@@ -2,6 +2,17 @@
 
 [A non-regularization self-supervised Retinex approach to low-light image enhancement with parameterized illumination estimation](https://www.sciencedirect.com/science/article/pii/S0031320323007227)
 
+The `data` directory structure is arranged as :
+```
+data
+  |-LIME
+  |-DICM
+  |-Fusion
+  |-ExDark
+  |-Nasa
+  |-VV
+```
+
 ## Citation  
 
 ```
